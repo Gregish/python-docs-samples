@@ -25,7 +25,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     """Return a friendly HTTP greeting."""
-    return 'Hello World!, Welcome to COSC360 GREG ARNASON 300109669'
+    return 'Hello World!, Welcome to COSC360 GREG ARNASON 300109669 !'
 
 
 if __name__ == '__main__':
